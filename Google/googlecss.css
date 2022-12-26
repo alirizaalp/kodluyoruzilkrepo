@@ -1,0 +1,44 @@
+.central {
+    padding-top: 150px;
+    text-align: center;
+}
+
+.base {
+    background-color: #a7a6a6;
+    text-align: center;
+    font-size: larger;
+}
+
+.left {
+    position: relative;
+    float: left;
+    background-color: #47b1a7;
+    margin: 5px 0 0 5px;
+    height: 90px;
+    width: 40%;
+    padding-top: 10px;
+    text-align: center;
+    font-size: larger;
+}
+
+.centre {
+    float: left;
+    background-color: #43b1a4;
+    margin: 5px 0 0 5px;
+    height: 90px;
+    width: 17%;
+    padding: 5px 0;
+    text-align: center;
+    font-size: larger;
+}
+
+.right {
+    float: left;
+    background-color: #2f9d90;
+    margin: 5px 0 0 5px;
+    height: 90px;
+    width: 42%;
+    padding: 5px 0;
+    text-align: center;
+    font-size: larger;
+}
